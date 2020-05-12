@@ -1,0 +1,142 @@
+word,tag,gender,plural,translation
+abgehauen,v,NULL,NULL,"To escape"
+abhollen,v,NULL,NULL,"To collect"
+alt,a,NULL,NULL,old
+amüsieren,v,NULL,NULL,"To enjoy"
+Angebot,n,N,Angebote,Offer
+Angst,n,F,Ängste,Fear
+Antwort,n,F,Antworten,Answer
+anziehen,v,NULL,NULL,"To get dressed"
+arm,a,NULL,NULL,poor
+Auftritt,n,M,Auftritte,Appearance
+aufzupassen,v,NULL,NULL,"To watch out"
+aufzusteigen,v,NULL,NULL,"To ascend"
+Auge,n,N,Augen,Eye
+Ausstellung,n,F,Ausstellungen,Exhibition
+ausziehen,v,NULL,NULL,"To get undressed"
+Bahnhof,n,M,NULL,"Train station"
+bedeuten,v,NULL,NULL,"To mean"
+Bedeutung,n,F,Bedeutungen,Meaning
+Begeisterung,n,F,,Enthusiasm
+Beileid,n,N,,Sympathy
+Bein,n,N,Beine,Leg
+Beruf,n,M,Berufe,Job
+Besuchen,v,NULL,NULL,"To visit"
+betreten,v,NULL,NULL,"To enter"
+bezahlen,v,NULL,NULL,"To pay"
+Beziehung,n,F,Beziehungen,Relationship
+Bildschirm,n,M,Bildschirme,Screen
+billig,a,NULL,NULL,Cheap
+Blume,n,F,Blumen,Flower
+brennen,v,NULL,NULL,"To burn"
+buhren,v,NULL,NULL,"To drill"
+decken,v,NULL,NULL,"To cover"
+denken,v,NULL,NULL,"To think"
+dunkel,a,NULL,NULL,dark
+Durchfall,n,M,Durchfälle,Diarrhea
+einschlagen,v,NULL,NULL,"To smash"
+Empfang,n,M,Empfänge,Signal
+entscheiden,v,NULL,NULL,"To decide"
+Erkältung,n,F,Erkältungen,"cold (sick)"
+erkennen,v,NULL,NULL,"To recognize"
+erzählen,v,NULL,NULL,"To tell"
+fertig,a,NULL,NULL,ready
+flach,a,NULL,NULL,flat
+Flasche,n,F,Flaschen,Bottle
+Flugzeug,n,N,Flugzeugen,airplane
+folgen,v,NULL,NULL,"To follow"
+Führerschein,n,M,Führerscheine,"Driving license"
+gebrochen,a,NULL,NULL,broken
+gefährlich,a,NULL,NULL,Dangerous
+Gefällt,v,NULL,NULL,"To like"
+Gefängnis,n,N,Gefängnisse,Prison
+Geheimnis,n,N,Geheimnisse,Secret
+gehören,v,NULL,NULL,"To belong"
+gepunktet,a,NULL,NULL,Dotted
+Geschäft,n,N,Geschäfte,Store
+Geschwister,n,F,NULL,Siblings
+Gesicht,n,N,Gesichter,Face
+glauben,v,NULL,NULL,"To belive"
+gleich,a,NULL,NULL,same
+gucken,v,NULL,NULL,"To look"
+Hemd,n,N,Hemden,Shirt
+Höhle,n,F,Höhlen,Cave
+Husten,v,NULL,NULL,"To cough"
+Jahr,n,N,Jahre,Year
+kämmen,v,NULL,NULL,"To comb hair"
+Kartoffel,n,F,Kartoffeln,Potato
+Kellner,n,M,Kellnerinnen,Waiter
+Kerze,n,F,Kerzen,Candles
+Kleid,n,N,Kleider,Dress
+klopfen,v,NULL,NULL,"To knock"
+Kneipe,n,F,Kneipen,Pub
+kompliziert,a,NULL,NULL,complicated
+Konsum,n,M,,Consumption
+Kuchen,n,M,Kuchen,Cake
+langweilig,a,NULL,NULL,boring
+lebendig,a,NULL,NULL,Alive
+leer,a,NULL,NULL,Empty
+leise,a,NULL,NULL,quietly
+Mantel,n,M,Mäntel,Coat
+Meinung,n,F,Meinungen,Opinion
+Messer,n,N,Messer,Knife
+Mitarbeiter,n,M,Mitarbeitern,employee
+Muskelkater,n,M,,"aching muscles"
+Nachbar,n,M,Nachbarn,neighbor
+Nachtisch,n,M,NULL,Dessert
+Nahrung,n,F,,Food
+Papier,n,N,Papiers,Paper
+passen,v,NULL,NULL,"To fit"
+passieren,v,NULL,NULL,"To happen"
+Prüfung,n,F,Prüfungen,exam
+putzen,v,NULL,NULL,"To clean"
+rasieren,v,NULL,NULL,"To shave"
+Rathaus,n,N,NULL,"Town hall"
+rauskommen,v,NULL,NULL,"To come out"
+Regal,n,N,Regale,Shelve
+Regenschirm,n,M,Regenschirme,Umbrella
+rund,a,NULL,NULL,round
+Sänger,n,M,NULL,Singer
+Schal,n,M,Schals,Scarf
+Schauspieler,n,M,NULL,Actor
+Schenken,v,NULL,NULL,"To give a gift"
+schicken,v,NULL,NULL,"To send"
+Schiff,n,N,Schiffe,Ship
+schminken,v,NULL,NULL,"To put make up"
+schneiden,v,NULL,NULL,"To cut"
+schnupfen,v,NULL,NULL,"To sniff"
+Spaziergang,n,M,NULL,walk
+Stadt,n,F,Städte,City
+sterben,v,NULL,NULL,"To die"
+streiten,v,NULL,NULL,"To argue"
+Strom,n,M,Ströme,Electricity
+suchen,v,NULL,NULL,"To search"
+tanzen,v,NULL,NULL,"To dance"
+Tasse,n,F,Tassen,Cup
+Teppich,n,M,Teppiche,Carpet
+Tisch,n,M,Tische,Table
+treffen,v,NULL,NULL,"To meet"
+trocken,a,NULL,NULL,dry
+trockenes,a,NULL,NULL,dry
+U-Bahn,n,F,U-Bahnen,Subway
+umziehen,v,NULL,NULL,"To change"
+untersuchen,v,NULL,NULL,"To examine"
+verbringen,v,NULL,NULL,"To spend time"
+verloren,v,NULL,NULL,"To be lost"
+versuchen,v,NULL,NULL,"To try"
+Vorschlag,n,M,Vorschläge,suggestion
+wachsen,v,NULL,NULL,"To grow"
+Waffe,n,F,Waffeen,Weapon
+Wanderung,n,F,Wanderungen,Hike
+waschen,v,NULL,NULL,"To wash"
+Weit,a,NULL,NULL,Far
+werden,v,NULL,NULL,"To become"
+Wichtig,a,NULL,NULL,Important
+wiederholen,v,NULL,NULL,"To repeat"
+wissen,v,NULL,NULL,"To know"
+Wohnung,n,N,Wohnungen,Flat
+zeigen,v,NULL,NULL,"To show"
+Zeitung,n,F,Zeitungen,Newspaper
+Zitrone,n,F,Zitronen,Lemon
+Zubereitung,n,F,Zubereitungen,preparation
+Zug,n,M,Züge,Train
